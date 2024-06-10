@@ -8,7 +8,8 @@
 <p align="center">
   <samp>
     <br>
-    I'm a MERN stack developer based in <b>Kerala, India</b>, proficient in crafting dynamic web applications from front-end to back-end. Passionate about leveraging technology to drive business growth and user engagement.
+    I'm a dedicated MERN stack developer from <b>Kerala, India</b>, with a proven track record in building full-featured web applications. I specialize in creating seamless and responsive user experiences, leveraging the power of MongoDB, Express.js, React, and Node.js to develop scalable and efficient solutions. Committed to utilizing the latest technologies to deliver impactful results and enhance user engagement.
+
     <br><br>
   </samp>
 </p>
