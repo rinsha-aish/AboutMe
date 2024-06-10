@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/rinsha-aisha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nibinmanikandan?utm_source=qr&igsh=azhrNHI5a2wxazB6" target="_blank">
+  <a href="https://www.instagram.com/rinsha_savad/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 <!-- About Section -->
 ## About Me
 
-<p>  
+<p style="font-size: 14px;">  
   Passionate and result-driven MERN stack developer with a strong background in designing and implementing web applications. Proficient in using the power of MongoDB, Express.js, React, and Node.js to create scalable and responsive solutions. Adept in collaborating with the teams to deliver innovative solutions per the objectives. Easily adaptable and dedicated to utilizing the best of my skills for quality outcomes.
 </p>
 
@@ -46,5 +46,9 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />&nbsp;&nbsp;
 </p>
 </p>
