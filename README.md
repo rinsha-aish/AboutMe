@@ -24,7 +24,7 @@
 <!-- About Section -->
 ## About Me
 
-<p style="font-size: 14px;">  
+<p style="font-size: 12px;">  
   Passionate and result-driven MERN stack developer with a strong background in designing and implementing web applications. Proficient in using the power of MongoDB, Express.js, React, and Node.js to create scalable and responsive solutions. Adept in collaborating with the teams to deliver innovative solutions per the objectives. Easily adaptable and dedicated to utilizing the best of my skills for quality outcomes.
 </p>
 
